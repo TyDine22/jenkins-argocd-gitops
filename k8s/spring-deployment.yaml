@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: spring-demo
-          image: dinety/spring-gitops-demo:4
+          image: dinety/spring-gitops-demo:5
 
           ports:
             - containerPort: 8080
